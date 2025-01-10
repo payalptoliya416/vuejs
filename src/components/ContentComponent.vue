@@ -5,8 +5,8 @@
 </template>
 
 <script setup>
-    import Header from '@/components/HeaderComponent.vue'
-    import SideBar from '@/components/SideBarComponent.vue'
+     import Header from '@/components/HeaderComponent.vue'
+     import SideBar from '@/components/SideBarComponent.vue'
 </script>
 
 <style>
